@@ -1,0 +1,6 @@
+2023-10-27 10:15:30,123 - INFO - New account created: 10001
+2023-10-27 10:16:05,456 - INFO - User logged in: 10001
+2023-10-27 10:16:45,789 - INFO - Transaction deposit on 10001: 500.0
+2023-10-27 10:17:10,112 - WARNING - Failed login attempt: 99999
+2023-10-27 10:18:00,000 - INFO - User logged in: 10001
+2023-10-27 10:18:05,234 - INFO - Transaction withdraw on 10001: 200.0
